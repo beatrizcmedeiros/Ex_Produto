@@ -1,4 +1,4 @@
-# Ex_Produto
+# Exercício - Cadastrar N produtos e mostrar a etiquera de preço de cada um.
 
 Exercício resolvido que foi proposto no curso de Java da Udemy no capítulo de herança e polimorfismo.
 
